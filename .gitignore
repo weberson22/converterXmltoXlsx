@@ -396,3 +396,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+#Files Local
+build
+dist
+nfs/*
+output/*
+venv/*
+!venv/main.py
+
