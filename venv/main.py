@@ -24,7 +24,7 @@ def checkFilesExists():
 
     if len(lista_arquivos) == 0:
         input("Favor colocar arquivos XML na pasta NFS")
-        return False
+        exit()
 
     return lista_arquivos
 
