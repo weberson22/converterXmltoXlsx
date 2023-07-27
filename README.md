@@ -17,13 +17,13 @@ e rode as dependencias do arquivo **requirements.txt**
 pip install -r requirements.txt
 
 ```
-crie uma pasta com nome NFs
+crie uma pasta com nome nfs
 e dentro dela coloque os arquivos XML
 execute o script, uma planilha sera criada na pasta output com os dados
 das notas.
 
 ## Contribuição
-Contribuições são bem-vindas! Se você deseja contribuir para aprimorar a Calculadora Simples, siga estes passos:
+Contribuições são bem-vindas! Se você deseja contribuir para aprimorar o nosso app, siga estes passos:
 
 **Faça um fork do repositório**  
 
