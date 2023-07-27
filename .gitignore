@@ -404,4 +404,5 @@ nfs/*
 output/*
 venv/*
 !venv/main.py
+!venv/requirements.txt
 
