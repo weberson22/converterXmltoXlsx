@@ -11,9 +11,11 @@ App feito em Python para pegar informações dos arquivos XML das NF-e.
 
 ## Como usar
 
-abra a pasta venv onde está o main.py no seu VsCode
+abra a pasta **venv** onde está o **main.py** no seu VsCode
 e rode as dependencias do arquivo **requirements.txt**
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
+
 ```
 crie uma pasta com nome NFs
 e dentro dela coloque os arquivos XML
